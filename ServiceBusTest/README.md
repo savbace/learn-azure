@@ -1,0 +1,2 @@
+Compiled from examples https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions.
+Used to make sure that multiple listeners to the same Subscription do not receive the same message simultaneously (i.e. lock works as expected).
